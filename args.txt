@@ -1,0 +1,4 @@
+content_dir: C:/Users/Welcome/Desktop/NST_CODE/content_data
+style_dir: C:/Users/Welcome/Desktop/NST_CODE/style_data
+vgg: C:/Users/Welcome/Desktop/NST_CODE/vgg_normalised.pth
+experiment: experiment2
